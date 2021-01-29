@@ -1,2 +1,3 @@
-# harmonic_content
-synthesizer and light || art installation
+# harmonic-content
+documentation of synthesizer and light art installation
+README.md
