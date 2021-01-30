@@ -6,7 +6,7 @@
 PWM resolution vs how many channels? 
 20210129015640
 EPOT chip for volume control - programmable voltage divider
-
+    talked to eddie and that seems like it wont really work
 TUNING - linearize feedback. 
 
 [https://www.pjrc.com/teensy/td_pulse.html](https://www.pjrc.com/teensy/td_pulse.html)
