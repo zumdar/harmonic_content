@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-02-03T02:17:44-05:00
+
+# Goals for 2021 Spring Semester
+
+**create the brains of the operation. some kind of interface that takes in CV and spits out CV**
+
+![annotated - whole.png](annotated - whole.png)
+
+![ISO right.png](ISO right.png)
+
+![[ISO right 1.png]]
+
+
