@@ -1,33 +1,12 @@
----
-date updated: '2021-02-04T13:53:52-05:00'
-
----
-
-# notes
-
-## 1.28.2021 meeting
-
-PWM resolution vs how many channels? 
-EPOT chip for volume control - programmable voltage divider
-talked to eddie and that seems like it wont really work
-TUNING - linearize feedback. 
-<https://www.pjrc.com/teensy/td_pulse.html>
-frequency locked loop? 
-piano has 88 keys which span the frequency range 27.5 Hz (A0) to 4186 Hz (C8).
-set up REPO for files and documengation
-
-### 2.1.21 meeting with Dr. Brothers
-
-continuous wave rader as way to do proximity?
-he likes the idea and might want to incorporate it into future junior design classes…
-
+# notes on progress
 ### 2.2 work in shop
 
 control voltages are usually -5 to +5V.. teensy can only do 0-5.. how to solve that?
 
 - check out CV schemes for modules
 - maybe could alter teensy or change groun ref or make modules do 0. - 5
--
+- look at microprocessor section in the **prophet 5** on how they did it!
+- Z80
 
 [2_2_2021.mov](2_2_2021.mov)
 
@@ -52,3 +31,17 @@ people suggesting just the teensy for this project
 | invites future usage |            |
 | expandable           |            |
 |                      |            |
+
+### 2.11
+
+got raspberry pi set up
+ 
+ ### 2.17 
+ raspberry pi not wanting to work today.. 
+ decided to use my computer as the brains and not worry about rPi for now. 
+ got the teensy talking to the computer via Firmata.
+ tried to get pure data Firmata to work, but i realized it was over my head
+ went with [processing with firmata](https://github.com/firmata/processing)
+ analog control --> teensy --> firmata into computer --> visualize on the computer --> teensy --> DAC --> synth 
+ rudimentry 3 buttons and 1 knob, but a proof of concept.
+ 

@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "8b066142262f6db7",
+        "id": "24a941e61b22e3ca",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "general notes.md",
+            "file": "How Tos/documentation.md",
             "mode": "source"
           }
         }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 163
+    "width": 280
   },
   "right": {
     "id": "ee1cdd946f4238d6",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "general notes.md",
+                "file": "How Tos/documentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "general notes.md",
-    "inspirations.md",
-    "_book/gitbook/gitbook-plugin-sharing/main.md",
-    "main.md",
+    "How Tos/Untitled.md",
+    "resources.md",
+    "research and inspirations.md",
+    "How Tos/software how to.md",
+    "action items.md",
     "ISO right.png",
-    "annotated - whole.png",
-    "inspirations/ralph_pridmore_music_and_color.pdf",
-    "inspirations/field.jpg",
-    "inspirations/color_keyboard.jpg",
-    "inspirations/clef.jpg"
+    "main.md",
+    "parts.md",
+    "README.md",
+    "SUMMARY.md"
   ]
 }
